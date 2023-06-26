@@ -1,2 +1,33 @@
 # discord_jarvis
-Discord bot that does all kinds of random things including sending timed challenges
+
+
+
+**Based on the discordpy library.**
+
+Discord bot that does all kinds of random things including sending timed challenges.
+Samples of .txt files that should be in the installation folder are included here.
+
+---
+## Installation/Usage
+
+1-  Install discord.py.
+
+> pip install -U discord.py
+
+2-  Edit the script at the end to insert your bot token:
+
+> client.run = ('#your token#')
+
+3- Run it with Python3.
+
+> use `nohup python3 discjarvis.py &` for running the process in the background.
+
+---
+## Suggestions/Doubts
+
+If you have any doubts/suggestions, please open an issue in this repository.
+
+
+## License
+
+DiscordJarvis is available for free via a [MIT](https://choosealicense.com/licenses/mit/) license.
