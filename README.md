@@ -1,6 +1,6 @@
 # discord_jarvis
 
-
+![discord_jarvis_banner](https://github.com/Frederico-F-Martins/discord_jarvis/assets/56032914/e3e37ba6-1f45-4dc4-9f74-5281ef45cd0a)
 
 **Based on the discordpy library.**
 
