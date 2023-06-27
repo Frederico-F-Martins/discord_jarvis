@@ -14,13 +14,17 @@ Samples of .txt files that should be in the installation folder are included her
 
 > pip install -U discord.py
 
-2-  Edit the script at the end to insert your bot token:
+2-  Edit the script at the end to insert your bot token (and fill the password list):
 
 > client.run = ('#your token#')
 
 3- Run it with Python3.
 
 > use `nohup python3 discjarvis.py &` for running the process in the background.
+
+4- Edit challenges.txt and faq.txt to your needs.
+
+> instructions inside each file.
 
 ---
 ## Suggestions/Doubts
