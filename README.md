@@ -1,6 +1,6 @@
 # discord_jarvis
 
-![discord_jarvis_banner](https://github.com/Frederico-F-Martins/discord_jarvis/assets/56032914/e3e37ba6-1f45-4dc4-9f74-5281ef45cd0a)
+![discord_jarvis_banner](https://github.com/Frederico-F-Martins/discord_jarvis/assets/56032914/64b2f0d3-4883-40dd-b6e5-b3bc23e1541e)
 
 ![GitHub](https://img.shields.io/github/license/Frederico-F-Martins/discord_jarvis)
 [![DOI](https://zenodo.org/badge/658337812.svg)](https://zenodo.org/badge/latestdoi/658337812)
