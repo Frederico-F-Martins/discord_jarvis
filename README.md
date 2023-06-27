@@ -3,6 +3,8 @@
 ![discord_jarvis_banner](https://github.com/Frederico-F-Martins/discord_jarvis/assets/56032914/e3e37ba6-1f45-4dc4-9f74-5281ef45cd0a)
 
 ![GitHub](https://img.shields.io/github/license/Frederico-F-Martins/discord_jarvis)
+[![DOI](https://zenodo.org/badge/658337812.svg)](https://zenodo.org/badge/latestdoi/658337812)
+
 
 **Based on the discordpy library.**
 
