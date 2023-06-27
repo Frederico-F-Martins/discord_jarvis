@@ -2,7 +2,6 @@
 
 ![discord_jarvis_banner](https://github.com/Frederico-F-Martins/discord_jarvis/assets/56032914/e3e37ba6-1f45-4dc4-9f74-5281ef45cd0a)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Frederico-F-Martins/discord_jarvis)
 ![GitHub](https://img.shields.io/github/license/Frederico-F-Martins/discord_jarvis)
 
 **Based on the discordpy library.**
